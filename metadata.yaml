@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1987
     wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20631#Chosen-PeoplesBeing-the-First--Arthur-Davis-Memorial-Lecture--delivered-before-the-Jewish-His_
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2007-02-19'
 gutenberg_type: Text
