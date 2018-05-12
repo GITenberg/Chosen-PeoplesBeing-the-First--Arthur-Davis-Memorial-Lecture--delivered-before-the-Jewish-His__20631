@@ -1,0 +1,33 @@
+_repo: Chosen-PeoplesBeing-the-First--Arthur-Davis-Memorial-Lecture--delivered-before-the-Jewish-His__20631
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2007-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Election, Doctrine of'
+- !lcc 'DS'
+- !lcsh 'National characteristics, German'
+title: 'Chosen Peoples
+
+  Being the First "Arthur Davis Memorial Lecture" delivered before the Jewish Historical
+  Society at University College on Easter-Passover Sunday, 1918/5678'
+url: http://www.gutenberg.org/ebooks/20631
